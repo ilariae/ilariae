@@ -2,7 +2,8 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.comfont=Fira+Code&pause=1000&color=FE79C6&center=true&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B;+This+is+Ilaria;Nice+to+meet+you!&center=true" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=
+#888ecc&lines=Hello,+There!+👋;This+is+Ilaria..;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
