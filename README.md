@@ -2,6 +2,9 @@
 ## 💫 About Me:
 🌱 I am currently learning Rust<br>🌙 Looking to collaborate on blockchain related projects<br>🪐 Bachelor in Computer science engineering and Master in Data Science
 
+---
+[![](https://visitcount.itsvg.in/api?id=ilariae&icon=0&color=10)](https://visitcount.itsvg.in)
+
 # 📊 GitHub Stats:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilariae&theme=dracula)
@@ -30,8 +33,6 @@ https://github-profile-summary-cards.vercel.app/demo.html
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=ilariae&icon=0&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
