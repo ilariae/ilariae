@@ -1,5 +1,5 @@
-## Hi there 👋
-# 💫 About Me:
+## Hi there ⚡
+## 💫 About Me:
 🌱 I am currently learning Rust<br>🌙 Looking to collaborate on blockchain related projects<br>🪐 Bachelor in Computer science engineering and Master in Data Science
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilariae&theme=dracula)
