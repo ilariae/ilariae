@@ -16,11 +16,8 @@
 
 <p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilariae&theme=dracula" alt="ilariae" />
   
-<p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ilariae&theme=dracula" alt="ilariae" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilariae&theme=dracula" alt="ilariae" />
-  
-<p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ilariae&theme=dracula&utcOffset=8" alt="ilariae" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ilariae&theme=dracula" alt="ilariae" />
+<p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilariae&theme=dracula" alt="ilariae" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ilariae&theme=dracula&utcOffset=8" alt="ilariae" />
 
 <!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilariae&theme=dracula)
