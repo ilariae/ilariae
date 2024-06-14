@@ -2,7 +2,6 @@
 ## 💫 About Me:
 🌱 I am currently learning Rust<br>🌙 Looking to collaborate on blockchain related projects<br>🪐 Bachelor in Computer science engineering and Master in Data Science
 
----
 [![](https://visitcount.itsvg.in/api?id=ilariae&icon=0&color=10)](https://visitcount.itsvg.in)
 
 # 📊 GitHub Stats:
