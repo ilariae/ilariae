@@ -7,6 +7,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ilariae&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilariae&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ilariae&theme=dracula&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ilariae&theme=dracula)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ilariaenache) 
