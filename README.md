@@ -19,6 +19,9 @@
 <p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilariae&theme=dracula" alt="ilariae" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ilariae&theme=dracula&utcOffset=8" alt="ilariae" />
 
+<p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ilariae&theme=dracula" alt="ilariae" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ilariae&theme=dracula" alt="ilariae" />
+
 <!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilariae&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ilariae&theme=dracula)
@@ -38,6 +41,7 @@
 https://github-profile-summary-cards.vercel.app/demo.html
 -->
 ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ilariaenache) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ilariaenache) 
 
 ## 🛠 Tech Stack:
