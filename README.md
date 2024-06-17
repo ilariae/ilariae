@@ -29,6 +29,15 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ilariae&theme=dracula&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ilariae&theme=dracula)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ilariae&theme=dracula&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ilariae&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ilariae&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ilariae&theme=dracula&hide_border=true)<br/>
+
 
 ![](https://github-readme-stats.vercel.app/api?username=ilariae&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ilariae&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
