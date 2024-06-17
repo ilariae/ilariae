@@ -8,7 +8,8 @@
 
 
 ## 💫 About Me:
-🌱 I am currently learning Rust<br>🌙 Looking to collaborate on blockchain related projects<br>🪐 Bachelor in Computer science engineering and Master in Data Science
+🌱 Currently learning Rust<br>🌸 Proficient in Python<br>🌙 Academic experience with C++ and Java<br>🪐 Bachelor in Computer Science and Business Organizarion Engineering<br>☄️ Now finishing a Master in Data Science<br>
+
 
 [![](https://visitcount.itsvg.in/api?id=ilariae&label=Views&color=10&pretty=true)](https://visitcount.itsvg.in)
 
