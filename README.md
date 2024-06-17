@@ -28,9 +28,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ilariae&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ilariae&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
+https://github-readme-streak-stats.herokuapp.com/?user=ilariae&theme=dracula&hide_border=true
 -->
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilariae&theme=dracula&hide_border=false" alt="ilariae](https://github-readme-streak-stats.herokuapp.com/?user=ilariae&theme=dracula&hide_border=true)" />
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilariae&theme=dracula&hide_border=true" alt="ilariae" />
 
 
 <!--
