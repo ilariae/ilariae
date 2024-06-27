@@ -8,7 +8,7 @@
 
 
 ## 💫 About Me:
-🌱 Currently learning Rust<br>🌸 Proficient in Python<br>🌙 Academic experience with C++ and Java<br>🪐 Bachelor in Computer Science and Business Organizarion Engineering<br>☄️ Now finishing a Master in Data Science<br>
+🌱 Polkadot Blockchain Academy Graduate - wave 5, Singapore<br>🌸 Proficient in Python<br>🌙 Academic experience with C++ and Java<br>🪐 Bachelor in Computer Science and Business Organizarion Engineering<br>☄️ Now finishing a Master in Data Science<br>
 
 
 [![](https://visitcount.itsvg.in/api?id=ilariae&label=Views&color=10&pretty=true)](https://visitcount.itsvg.in)
