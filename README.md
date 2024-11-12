@@ -8,7 +8,7 @@
 
 
 ## 💫 About Me:
-🌱 Polkadot Blockchain Academy Graduate - wave 5, Singapore<br>🌙 Developer Relations Engineer | papermoon.io <br>🪐 Bachelor in Computer Science and Business Organizarion Engineering<br>☄️ Rust, C++, Java, Python<br>
+🌙 Developer Relations Engineer | papermoon.io <br>🌱 Polkadot Blockchain Academy Graduate - wave 5, Singapore<br>🪐 Bachelor in Computer Science and Business Organizarion Engineering<br>☄️ Rust, C++, Java, Python<br>
 
 
 [![](https://visitcount.itsvg.in/api?id=ilariae&label=Views&color=10&pretty=true)](https://visitcount.itsvg.in)
