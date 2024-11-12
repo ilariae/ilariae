@@ -13,6 +13,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=ilariae&label=Views&color=10&pretty=true)](https://visitcount.itsvg.in)
 
+<!-- 
 ## 📊 GitHub Stats:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ilariae&theme=date_night&hide_border=true&include_all_commits=false&count_private=true" alt="ilariae" />
@@ -21,7 +22,7 @@
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 <!--
