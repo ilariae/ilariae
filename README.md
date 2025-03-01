@@ -13,7 +13,7 @@
 
 <details>
   <br />
-  <summary><b>⚙️ Per aprire un elenco</b></summary>
+  <summary><b>⚙️ 💫 About Me</b></summary>
   	<ul>
   	    <li><b>💼 Occupation: </b>Developer Relations Engineer @ papermoon.io for Wormhole</li>
 	    <li><b>🎓 Education: </b>Bachelor in Computer Science and Business Organizarion Engineering</li>
@@ -21,6 +21,17 @@
 	    <li><b>👾 Main programming languages:</b> C++, Python, Rust, Java</li>
 	</ul>
 </details>
+
+
+
+<b>⚙️ 💫 About Me</b>
+   <ul>
+	<li><b>💼 Occupation: </b>Developer Relations Engineer @ papermoon.io for Wormhole</li>
+	<li><b>🎓 Education: </b>Bachelor in Computer Science and Business Organizarion Engineering</li>
+	<li><b>📚 More education: </b> Polkadot Blockchain Academy - Singapore</li>
+	<li><b>👾 Main programming languages:</b> C++, Python, Rust, Java</li>
+   </ul>
+
 
 <!--visit count-->
 [![](https://visitcount.itsvg.in/api?id=ilariae&label=Views&color=10&pretty=true)](https://visitcount.itsvg.in)
