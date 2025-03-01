@@ -22,7 +22,6 @@
 - [Polkadot Blockchain Academy](https://kodadot.xyz/ahp/gallery/171-44)
 - [UNIC - Intro to Digital Currencies](https://app.block.co/certificate/03d844fa-17d4-4628-98bb-eed9414441b7/)
 </details>
-<br>
 
 <!--TECH-->
 <details>
