@@ -24,21 +24,37 @@
 - [UNIC - Intro to Digital Currencies](https://app.block.co/certificate/03d844fa-17d4-4628-98bb-eed9414441b7/)
 </details>
 
-<div>
+<div align="center">
+	<img src="https://cultofthepartyparrot.com/parrots/hd/githubpartyparrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/angryparrot.gif" width="30" height="30"/>
+ 	<img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
+  	<img src="https://cultofthepartyparrot.com/parrots/hd/horizontalparrot.gif" width="30" height="30"/>
+    	<img src="https://cultofthepartyparrot.com/parrots/hd/maracasparrot.gif" width="30" height="30"/>
+     	<img src="https://cultofthepartyparrot.com/parrots/hd/everythingsfineparrot.gif" width="30" height="30"/>
+      	<img src="https://cultofthepartyparrot.com/parrots/hd/moonparrot.gif" width="30" height="30"/>
+       	<img src="https://cultofthepartyparrot.com/parrots/hd/chefkissparrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/sleepingparrot.gif" width="30" height="30"/>
+ 	<img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/evilparrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="50" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/birthdaypartyparrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/deployparrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/flowerparrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/backwardsparrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/bouncingparrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/wfhparrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/quadparrot.gif" width="30" height="30"/>
 	<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" height="30"/>
 	<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" height="30"/>
 	<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" height="30"/>
 	<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" height="30"/>
 	<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" height="30"/>
- 	<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" height="30"/>
-  	<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" height="30"/>
-   	<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" height="30"/>
-    	<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" height="30"/>
-     	<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" height="30"/>
-      	<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" height="30"/>
-       	<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" height="30"/>
 	<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" height="30"/>
- 	<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" height="30"/>
+  	<img src="https://cultofthepartyparrot.com/parrots/hd/partyparrot.gif" width="30" height="30"/>
 
 </div>
 
@@ -97,6 +113,8 @@
 stats generators:
 - https://gh-stats-gen.vercel.app/
 - https://gprm.itsvg.in/
+
+Parrots: https://cultofthepartyparrot.com/
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
