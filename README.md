@@ -53,7 +53,7 @@
   <summary><b>📊 Congribution Graph</b></summary>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilariae&theme=material-palenight" width="900">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilariae&theme=material-palenight" width="800">
 </p>
 
 
