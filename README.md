@@ -40,12 +40,24 @@
 </details>
 
 <!--STATS-->
+
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ilariae&theme=material-palenight&show_icons=true&hide_border=true&count_private=true" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilariae&theme=material-palenight&hide_border=true" width="48%" />
 </p>
 <br>
+
+<details>
+  <br />
+  <summary><b>📊 Congribution Graph</b></summary>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilariae&theme=material-palenight" width="900">
+</p>
+
+
+</details>
 
 <!--ANIMATION-->
 ![Snake animation (dark mode)](https://github.com/ilariae/ilariae/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
