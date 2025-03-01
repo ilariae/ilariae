@@ -24,6 +24,8 @@
 </p>
 <br>
 
+![Snake animation](https://github.com/ilariae/ilariae/blob/output/github-contribution-grid-snake.svg)
+
 <!--footer-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
