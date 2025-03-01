@@ -24,8 +24,6 @@
 - <img src="https://cultofthepartyparrot.com/parrots/hd/evilparrot.gif" height="20"/> [UNIC - Intro to Digital Currencies](https://app.block.co/certificate/03d844fa-17d4-4628-98bb-eed9414441b7/)
 </details>
 
-<br>
-<br>
 <!--TECH-->
 <details>
   <summary><b>💻 Tech Stack </b></summary>
