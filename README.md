@@ -25,7 +25,7 @@
 </details>
 
 <div align="center">
-	<img src="https://cultofthepartyparrot.com/parrots/hd/githubpartyparrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/mergeconflictparrot.gif" width="30" height="30"/>
 	<img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
 	<img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
 	<img src="https://cultofthepartyparrot.com/parrots/hd/angryparrot.gif" width="30" height="30"/>
@@ -49,7 +49,6 @@
 	<img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrot.gif" width="30" height="30"/>
 	<img src="https://cultofthepartyparrot.com/parrots/hd/quadparrot.gif" width="30" height="30"/>
   	<img src="https://cultofthepartyparrot.com/parrots/hd/partyparrot.gif" width="30" height="30"/>
-
 </div>
 
 <br>
