@@ -16,9 +16,13 @@
 	<li><b>👾 Main programming languages:</b> C++, Python, Rust, Java</li>
    </ul>
 
-### 🏅 Certificates
+<details>
+<summary><h3>🏅 Certificates</h3></summary>
+
 - [Polkadot Blockchain Academy](https://kodadot.xyz/ahp/gallery/171-44)
-- [UNIC - Intro to digital Currencies](https://app.block.co/certificate/03d844fa-17d4-4628-98bb-eed9414441b7/)
+- [UNIC - Intro to Digital Currencies](https://app.block.co/certificate/03d844fa-17d4-4628-98bb-eed9414441b7/)
+</details>
+<br>
 
 <!--TECH-->
 <details>
