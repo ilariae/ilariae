@@ -13,7 +13,7 @@
 
 <details>
   <br />
-  <summary><b>⚙️ 💫 About Me</b></summary>
+  <summary><h2>💫 About Me</h2></summary>
   	<ul>
   	    <li><b>💼 Occupation: </b>Developer Relations Engineer @ papermoon.io for Wormhole</li>
 	    <li><b>🎓 Education: </b>Bachelor in Computer Science and Business Organizarion Engineering</li>
@@ -23,8 +23,7 @@
 </details>
 
 
-
-<b>⚙️ 💫 About Me</b>
+<b>💫 About Me</b>
    <ul>
 	<li><b>💼 Occupation: </b>Developer Relations Engineer @ papermoon.io for Wormhole</li>
 	<li><b>🎓 Education: </b>Bachelor in Computer Science and Business Organizarion Engineering</li>
