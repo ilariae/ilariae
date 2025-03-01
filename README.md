@@ -8,48 +8,21 @@
 </h1>
 
 <!--BIO-->
-<h2>💫 About Me </h2>
+<h2><img src="https://cultofthepartyparrot.com/guests/hd/nyanparrot.gif" height="30"/> About Me </h2>
    <ul>
-	<li><b>💼 Occupation: </b>Developer Relations Engineer @ PaperMoon for Wormhole</li>
-	<li><b>🎓 Education: </b>Bachelor in Computer Science and Business Organizarion Engineering</li>
-	<li><b>💡 More education: </b> Polkadot Blockchain Academy - Singapore</li>
-	<li><b>👾 Main programming languages:</b> C++, Python, Rust, Java</li>
+	<li><b>	<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" height="20"/> Occupation: </b>Developer Relations Engineer @ PaperMoon for Wormhole</li>
+	<li><b><img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" height="20"/> Education: </b>Bachelor in Computer Science and Business Organizarion Engineering</li>
+	<li><b><img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" height="20"/> More education: </b> Polkadot Blockchain Academy - Singapore</li>
+	<li><b><img src="https://cultofthepartyparrot.com/parrots/deployparrot.gif" height="20"/> Main programming languages:</b> C++, Python, Rust, Java</li>
    </ul>
 
 <!--CERTIFICATES-->
 <details>
 <summary><h3>🏅 Certificates </h3></summary>
 
-- [Polkadot Blockchain Academy](https://kodadot.xyz/ahp/gallery/171-44)
-- [UNIC - Intro to Digital Currencies](https://app.block.co/certificate/03d844fa-17d4-4628-98bb-eed9414441b7/)
+- <img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" height="20"/> [Polkadot Blockchain Academy](https://kodadot.xyz/ahp/gallery/171-44)
+- <img src="https://cultofthepartyparrot.com/parrots/hd/evilparrot.gif" height="20"/> [UNIC - Intro to Digital Currencies](https://app.block.co/certificate/03d844fa-17d4-4628-98bb-eed9414441b7/)
 </details>
-
-<div align="center">
-	<img src="https://cultofthepartyparrot.com/parrots/hd/mergeconflictparrot.gif" width="30" height="30"/>
-	<img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-	<img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-	<img src="https://cultofthepartyparrot.com/parrots/hd/angryparrot.gif" width="30" height="30"/>
- 	<img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-  	<img src="https://cultofthepartyparrot.com/parrots/hd/horizontalparrot.gif" width="30" height="30"/>
-    	<img src="https://cultofthepartyparrot.com/parrots/hd/maracasparrot.gif" width="30" height="30"/>
-     	<img src="https://cultofthepartyparrot.com/parrots/hd/everythingsfineparrot.gif" width="30" height="30"/>
-      	<img src="https://cultofthepartyparrot.com/parrots/hd/moonparrot.gif" width="30" height="30"/>
-       	<img src="https://cultofthepartyparrot.com/parrots/hd/chefkissparrot.gif" width="30" height="30"/>
-	<img src="https://cultofthepartyparrot.com/parrots/hd/sleepingparrot.gif" width="30" height="30"/>
- 	<img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-	<img src="https://cultofthepartyparrot.com/parrots/hd/evilparrot.gif" width="30" height="30"/>
-	<img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="50" height="30"/>
-	<img src="https://cultofthepartyparrot.com/parrots/hd/birthdaypartyparrot.gif" width="30" height="30"/>
-	<img src="https://cultofthepartyparrot.com/parrots/deployparrot.gif" width="30" height="30"/>
-	<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-	<img src="https://cultofthepartyparrot.com/parrots/hd/flowerparrot.gif" width="30" height="30"/>
-	<img src="https://cultofthepartyparrot.com/parrots/hd/backwardsparrot.gif" width="30" height="30"/>
-	<img src="https://cultofthepartyparrot.com/parrots/hd/bouncingparrot.gif" width="30" height="30"/>
-	<img src="https://cultofthepartyparrot.com/parrots/hd/wfhparrot.gif" width="30" height="30"/>
-	<img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrot.gif" width="30" height="30"/>
-	<img src="https://cultofthepartyparrot.com/parrots/hd/quadparrot.gif" width="30" height="30"/>
-  	<img src="https://cultofthepartyparrot.com/parrots/hd/partyparrot.gif" width="30" height="30"/>
-</div>
 
 <br>
 <br>
@@ -97,6 +70,24 @@
 ![Snake animation (dark mode)](https://github.com/ilariae/ilariae/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <!--FOOTER-->
+
+<div align="center">
+	<img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/wfhparrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/mergeconflictparrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/mergetrainparrot.gif" width="30" height="30"/>
+  	<img src="https://cultofthepartyparrot.com/parrots/hd/horizontalparrot.gif" width="30" height="30"/>
+     	<img src="https://cultofthepartyparrot.com/parrots/hd/everythingsfineparrot.gif" width="30" height="30"/>
+      	<img src="https://cultofthepartyparrot.com/parrots/hd/moonparrot.gif" width="30" height="30"/>
+ 	<img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/birthdaypartyparrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/backwardsparrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/bouncingparrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/quadparrot.gif" width="30" height="30"/>
+  	<img src="https://cultofthepartyparrot.com/parrots/hd/partyparrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/congaparrot.gif" width="30" height="30"/>
+</div>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
@@ -129,4 +120,33 @@ Section ideas:
   	    <li><b>titolo:</b> item</li>
 	</ul>
 </details
+
+
+
+<div align="center">
+	<img src="https://cultofthepartyparrot.com/parrots/hd/mergeconflictparrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/angryparrot.gif" width="30" height="30"/>
+ 	<img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
+  	<img src="https://cultofthepartyparrot.com/parrots/hd/horizontalparrot.gif" width="30" height="30"/>
+    	<img src="https://cultofthepartyparrot.com/parrots/hd/maracasparrot.gif" width="30" height="30"/>
+     	<img src="https://cultofthepartyparrot.com/parrots/hd/everythingsfineparrot.gif" width="30" height="30"/>
+      	<img src="https://cultofthepartyparrot.com/parrots/hd/moonparrot.gif" width="30" height="30"/>
+       	<img src="https://cultofthepartyparrot.com/parrots/hd/chefkissparrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/sleepingparrot.gif" width="30" height="30"/>
+ 	<img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/evilparrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="50" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/birthdaypartyparrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/deployparrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/flowerparrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/backwardsparrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/bouncingparrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/wfhparrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/quadparrot.gif" width="30" height="30"/>
+  	<img src="https://cultofthepartyparrot.com/parrots/hd/partyparrot.gif" width="30" height="30"/>
+</div>
 -->
