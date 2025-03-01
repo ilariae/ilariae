@@ -8,7 +8,7 @@
 </h1>
 
 <!--BIO-->
-<h2>💫 About Me</h2>
+<h2>💫 About Me </h2>
    <ul>
 	<li><b>💼 Occupation: </b>Developer Relations Engineer @ PaperMoon for Wormhole</li>
 	<li><b>🎓 Education: </b>Bachelor in Computer Science and Business Organizarion Engineering</li>
@@ -16,8 +16,9 @@
 	<li><b>👾 Main programming languages:</b> C++, Python, Rust, Java</li>
    </ul>
 
+<!--CERTIFICATES-->
 <details>
-<summary><h3>🏅 Certificates</h3></summary>
+<summary><h3>🏅 Certificates </h3></summary>
 
 - [Polkadot Blockchain Academy](https://kodadot.xyz/ahp/gallery/171-44)
 - [UNIC - Intro to Digital Currencies](https://app.block.co/certificate/03d844fa-17d4-4628-98bb-eed9414441b7/)
@@ -25,8 +26,7 @@
 
 <!--TECH-->
 <details>
-  <br />
-  <summary><b>💻 Tech Stack</b></summary>
+  <summary><b>💻 Tech Stack </b></summary>
 
 👩‍💻 Programming languages 
 
@@ -48,30 +48,24 @@
 
 <!--STATS-->
 <details>
-  <br />
   <summary><b>📊 Stats</b></summary>
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ilariae&theme=material-palenight&show_icons=true&hide_border=true&count_private=true" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilariae&theme=material-palenight&hide_border=true" width="48%" />
 </p>
-<br>
 </details>
 
+<!--GRAPH-->
 <details>
-  <br />
   <summary><b>📈 Congribution Graph</b></summary>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilariae&theme=material-palenight" width="800">
 </p>
-
-
 </details>
 
 <!--ANIMATION-->
 ![Snake animation (dark mode)](https://github.com/ilariae/ilariae/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
 
 <!--FOOTER-->
 <p align="center">
@@ -93,23 +87,15 @@ stats generators:
 
 🌱 What do I do and What have I done?
 ⚡ One line that describes me best?
-Certificates 
 
 Section ideas: 
 📚 Learning
 💻 Current projects
 
-
-
 <details>
-  <br />
   <summary><b>⚙️ Per aprire un elenco</b></summary>
   	<ul>
   	    <li><b>titolo:</b> item</li>
-	    <
 	</ul>
-</details>
-
-eth&btc address
-
+</details
 -->
