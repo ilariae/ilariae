@@ -8,9 +8,6 @@
 </h1>
 
 <!--bio-->
-## 💫 About Me:
-🌙 Developer Relations Engineer @ papermoon.io for Wormhole <br>🌱 Polkadot Blockchain Academy Graduate - Singapore<br>🪐 Bachelor in Computer Science and Business Organizarion Engineering<br>☄️ Rust, C++, Java, Python<br>
-
 <details>
   <br />
   <summary><h2>💫 About Me</h2></summary>
@@ -23,7 +20,7 @@
 </details>
 
 
-<b>💫 About Me</b>
+<h2>💫 About Me</h2>
    <ul>
 	<li><b>💼 Occupation: </b>Developer Relations Engineer @ papermoon.io for Wormhole</li>
 	<li><b>🎓 Education: </b>Bachelor in Computer Science and Business Organizarion Engineering</li>
