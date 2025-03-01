@@ -10,7 +10,7 @@
 <!--bio-->
 <h2>💫 About Me</h2>
    <ul>
-	<li><b>💼 Occupation: </b>Developer Relations Engineer @ [PaperMoon](https://papermoon.io/) for Wormhole</li>
+	<li><b>💼 Occupation: </b>Developer Relations Engineer @ [PaperMoon](https://papermoon.io/)for Wormhole</li>
 	<li><b>🎓 Education: </b>Bachelor in Computer Science and Business Organizarion Engineering</li>
 	<li><b>📚 More education: </b> Polkadot Blockchain Academy - Singapore</li>
 	<li><b>👾 Main programming languages:</b> C++, Python, Rust, Java</li>
