@@ -16,6 +16,12 @@
 	<li><b>👾 Main programming languages:</b> C++, Python, Rust, Java</li>
    </ul>
 
+<br>
+
+![ilariae's Stats](https://github-readme-stats.vercel.app/api?username=ilariae&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
+![ilariae's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ilariae&theme=material-palenight&hide_border=true)
+
+<br>
 
 <!--footer-->
 <p align="center">
