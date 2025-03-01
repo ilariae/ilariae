@@ -17,10 +17,6 @@
    </ul>
 
 
-<!--visit count-->
-[![](https://visitcount.itsvg.in/api?id=ilariae&label=Views&color=10&pretty=true)](https://visitcount.itsvg.in)
-
-
 <!--footer-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
