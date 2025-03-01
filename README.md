@@ -10,7 +10,7 @@
 <!--BIO-->
 <h2><img src="https://cultofthepartyparrot.com/guests/hd/nyanparrot.gif" height="30"/> About Me </h2>
    <ul>
-	<li><b><img src="https://cultofthepartyparrot.com/other-parrots/hd/Pink_Cockatoo.gif" height="20"/> Blockchain Enthusiast</b></li>   
+	<li><b>✨ Blockchain Enthusiast ✨</b></li>   
 	<li><b><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" height="20"/> Occupation: </b>Developer Relations Engineer @ PaperMoon for Wormhole</li>
 	<li><b><img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" height="20"/> Education: </b>Bachelor in Computer Science and Business Organizarion Engineering</li>
 	<li><b><img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" height="20"/> More education: </b> Polkadot Blockchain Academy - Singapore</li>
