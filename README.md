@@ -16,6 +16,10 @@
 	<li><b>👾 Main programming languages:</b> C++, Python, Rust, Java</li>
    </ul>
 
+### 🏅 Certificates
+- [Polkadot Blockchain Academy](https://kodadot.xyz/ahp/gallery/171-44)
+- [UNIC - Intro to digital Currencies](https://app.block.co/certificate/03d844fa-17d4-4628-98bb-eed9414441b7/)
+
 <!--TECH-->
 <details>
   <br />
@@ -81,9 +85,15 @@ stats generators:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 
+🌱 What do I do and What have I done?
+⚡ One line that describes me best?
+Certificates 
+
 Section ideas: 
 📚 Learning
 💻 Current projects
+
+
 
 <details>
   <br />
