@@ -17,10 +17,10 @@
    </ul>
 
 <br>
-
+<div>
 ![ilariae's Stats](https://github-readme-stats.vercel.app/api?username=ilariae&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
 ![ilariae's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ilariae&theme=material-palenight&hide_border=true)
-
+</div>
 <br>
 
 <!--footer-->
