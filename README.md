@@ -24,6 +24,26 @@
 - [UNIC - Intro to Digital Currencies](https://app.block.co/certificate/03d844fa-17d4-4628-98bb-eed9414441b7/)
 </details>
 
+<div>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" height="30"/>
+ 	<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" height="30"/>
+  	<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" height="30"/>
+   	<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" height="30"/>
+    	<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" height="30"/>
+     	<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" height="30"/>
+      	<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" height="30"/>
+       	<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" height="30"/>
+	<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" height="30"/>
+ 	<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" height="30"/>
+
+</div>
+
+<br>
+<br>
 <!--TECH-->
 <details>
   <summary><b>💻 Tech Stack </b></summary>
