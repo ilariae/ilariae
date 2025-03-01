@@ -48,12 +48,6 @@
 	<img src="https://cultofthepartyparrot.com/parrots/hd/wfhparrot.gif" width="30" height="30"/>
 	<img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrot.gif" width="30" height="30"/>
 	<img src="https://cultofthepartyparrot.com/parrots/hd/quadparrot.gif" width="30" height="30"/>
-	<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" height="30"/>
-	<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" height="30"/>
-	<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" height="30"/>
-	<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" height="30"/>
-	<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" height="30"/>
-	<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" height="30"/>
   	<img src="https://cultofthepartyparrot.com/parrots/hd/partyparrot.gif" width="30" height="30"/>
 
 </div>
