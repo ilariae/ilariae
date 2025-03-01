@@ -1,3 +1,4 @@
+<!--intro-->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=888ECC&center=true&random=false&width=435&lines=Hello+There+%F0%9F%91%8B;++This+is+Ilaria;+Nice+to+meet+you+!" alt="Typing SVG" />
@@ -6,20 +7,24 @@
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 </h1>
 
-
+<!--bio-->
 ## 💫 About Me:
 🌙 Developer Relations Engineer @ papermoon.io for Wormhole <br>🌱 Polkadot Blockchain Academy Graduate - Singapore<br>🪐 Bachelor in Computer Science and Business Organizarion Engineering<br>☄️ Rust, C++, Java, Python<br>
 
+<details>
+  <br />
+  <summary><b>⚙️ Per aprire un elenco</b></summary>
+  	<ul>
+  	    <li><b>💼 Occupation: </b>Developer Relations Engineer @ papermoon.io for Wormhole</li>
+	    <li><b>🎓 Education: </b>Bachelor in Computer Science and Business Organizarion Engineering</li>
+	    <li><b>📚 More education: </b> Polkadot Blockchain Academy - Singapore</li>
+	    <li><b>👾 Main programming languages:</b> C++, Python, Rust, Java</li>
+	</ul>
+</details>
 
+<!--visit count-->
 [![](https://visitcount.itsvg.in/api?id=ilariae&label=Views&color=10&pretty=true)](https://visitcount.itsvg.in)
 
-
-<!--
-stats websites:
-- https://github-profile-summary-cards.vercel.app/demo.html
-- GPRM https://gprm.itsvg.in ) 
-
--->
 
 <!--footer-->
 <p align="center">
@@ -27,6 +32,11 @@ stats websites:
 </p>
 
 <!--
+
+stats websites:
+- https://github-profile-summary-cards.vercel.app/demo.html
+- GPRM https://gprm.itsvg.in ) 
+
 
 Here are some ideas to get you started:
 
@@ -46,15 +56,12 @@ Section ideas:
 📚 Learning
 💻 Current projects
 
-years of education and years of experience 
-
-certificates 
-
-what do i do and what have i done
+- years of education and years of experience 
+- certificates 
+- what do i do and what have i done
 
 kaggle 
 leetcode
-spotify 
 
 <details>
   <br />
@@ -66,7 +73,5 @@ spotify
 </details>
 
 eth&btc address
-
-
 
 -->
