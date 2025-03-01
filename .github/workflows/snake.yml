@@ -30,6 +30,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          commit_history: true  # Enables commit-based tracking
           
       # Push the generated SVG to an output branch
       - name: Push SVG to Output Branch
