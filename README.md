@@ -1,20 +1,20 @@
 <!--INTRO-->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=888ECC&center=true&random=false&width=435&lines=Hello+There+%F0%9F%91%8B;++I+am+Ilaria;+Welcome+!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=888ECC&center=true&random=false&width=435&lines=Hello+There+%F0%9F%91%8B;++Welcome!" alt="Typing SVG" />
   </a>
 <br>
 <img src="https://raw.githubusercontent.com/ilariae/ilariae/main/assets/kyubey.gif" height="40" />
 </h1>
 
 <!--BIO-->
-<h2><img src="https://cultofthepartyparrot.com/guests/hd/nyanparrot.gif" height="30"/> About Me </h2>
+<h2> About Me </h2>
    <ul>
 	<li><b>✨ Blockchain Enthusiast ✨</b></li>   
-	<li><b><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" height="20"/> Occupation: </b>Developer Relations Engineer @ PaperMoon for Wormhole</li>
-	<li><b><img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" height="20"/> Education: </b>Bachelor in Computer Science and Business Organizarion Engineering</li>
-	<li><b><img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" height="20"/> More education: </b> Polkadot Blockchain Academy - Singapore</li>
-	<li><b><img src="https://cultofthepartyparrot.com/parrots/deployparrot.gif" height="20"/> Main programming languages:</b> C++, Python, Rust, Java</li>
+	<li><b> Occupation: </b>Developer Relations Engineer @ PaperMoon for Wormhole</li>
+	<li><b> Education: </b>Bachelor in Computer Science and Business Organizarion Engineering</li>
+	<li><b> More education: </b> Polkadot Blockchain Academy - Singapore</li>
+	<li><b> Main programming languages:</b> C++, Python, Rust, Java</li>
    </ul>
 
 <!--CERTIFICATES-->
