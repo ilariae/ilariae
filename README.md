@@ -44,33 +44,6 @@
 
 <!--FOOTER-->
 
-<div align="center">
-	<img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" height="25"/>
-	<img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" height="25"/>
-	<img src="https://cultofthepartyparrot.com/parrots/hd/wfhparrot.gif" height="25"/>
-	<img src="https://cultofthepartyparrot.com/parrots/hd/mergeconflictparrot.gif" height="25"/>
-	<img src="https://cultofthepartyparrot.com/parrots/hd/mergetrainparrot.gif" height="25"/>
-  	<img src="https://cultofthepartyparrot.com/parrots/hd/horizontalparrot.gif" height="25"/>
-     	<img src="https://cultofthepartyparrot.com/parrots/hd/everythingsfineparrot.gif" height="25"/>
-      	<img src="https://cultofthepartyparrot.com/parrots/hd/moonparrot.gif" height="25"/>
- 	<img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" height="25"/>
-	<img src="https://cultofthepartyparrot.com/parrots/hd/birthdaypartyparrot.gif" height="25"/>
-	<img src="https://cultofthepartyparrot.com/parrots/hd/backwardsparrot.gif" height="25"/>
-	<img src="https://cultofthepartyparrot.com/parrots/hd/bouncingparrot.gif" height="25"/>
-	<img src="https://cultofthepartyparrot.com/parrots/hd/quadparrot.gif" height="25"/>
-  	<img src="https://cultofthepartyparrot.com/parrots/hd/partyparrot.gif" height="25"/>
-	<img src="https://cultofthepartyparrot.com/parrots/hd/congaparrot.gif" height="25"/>
-	<img src="https://cultofthepartyparrot.com/parrots/hd/beerparrot.gif" height="25"/>
-	<img src="https://cultofthepartyparrot.com/parrots/hd/discoparrot.gif" height="25"/>
-	<img src="https://cultofthepartyparrot.com/parrots/hd/confusedparrot.gif" height="25"/>
-	<img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" height="25"/>
-	<img src="https://cultofthepartyparrot.com/parrots/hd/rythmicalparrot.gif" height="25"/>
-	<img src="https://cultofthepartyparrot.com/guests/hd/discoduck.gif" height="25"/>
-	<img src="https://cultofthepartyparrot.com/guests/hd/dogeparrot.gif" height="25"/>
-	<img src="https://cultofthepartyparrot.com/guests/hd/vibepartycat.gif" height="25"/>
-	<img src="https://cultofthepartyparrot.com/parrots/hd/evilparrot.gif" height="25"/>
-</div>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
