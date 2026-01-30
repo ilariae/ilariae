@@ -13,12 +13,11 @@
 	<li><b> Blockchain Enthusiast </b></li>   
 	<li><b> Occupation: </b>Developer Relations Engineer @ PaperMoon for Wormhole</li>
 	<li><b> Education: </b>Bachelor in Computer Science and Business Organizarion Engineering</li>
-	<li><b> More education: </b> EIT Master in Data Science, Polkadot Blockchain Academy </li>
+	<li><b> More education: </b> Polkadot Blockchain Academy, EIT Master in Data Science</li>
 	<li><b> Main programming languages:</b> C++, Python, Rust, Java</li>
    </ul>
 
 <!--CERTIFICATES-->
-<details>
 <summary><h3>🏅 Certificates </h3></summary>
 
 - [Polkadot Blockchain Academy](https://kodadot.xyz/ahp/gallery/171-44)
