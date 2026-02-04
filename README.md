@@ -1,7 +1,7 @@
 <!--INTRO-->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=888ECC&center=true&random=false&width=435&lines=Hello+There+%F0%9F%91%8B;++Welcome!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=888ECC&center=true&random=false&width=435&lines=Hello;++Welcome!" alt="Typing SVG" />
   </a>
 <br>
 <img src="https://raw.githubusercontent.com/ilariae/ilariae/main/assets/kyubey.gif" height="40" />
@@ -18,7 +18,7 @@
    </ul>
 
 <!--CERTIFICATES-->
-<h3>🏅 Certificates </h3>
+<h3>Certificates </h3>
 
 - [Polkadot Blockchain Academy](https://kodadot.xyz/ahp/gallery/171-44)
 - [UNIC - Intro to Digital Currencies](https://app.block.co/certificate/03d844fa-17d4-4628-98bb-eed9414441b7/)
@@ -26,7 +26,7 @@
 
 <!--TECH-->
 <details>
-  <summary><b>💻 Tech Stack </b></summary>
+  <summary><b>Tech Stack </b></summary>
 
 👩‍💻 Programming languages 
 
