@@ -14,7 +14,7 @@ Blockchain engineer focused on cross-chain infrastructure, developer experience,
 
    <ul>  
 	<li> Developer Relations Engineer @ PaperMoon</li>
-	<li> Core contributor to <a href="https://github.com/wormhole-foundation/wormhole-docs"> Wormhole Documentation (2024-2026)</a></li>
+	<li> Core contributor to <a href="https://github.com/wormhole-foundation/wormhole-docs"> Wormhole Documentation</a> (2024-2026)</li>
 	<li> Bachelor in Computer Science and Business Organizarion Engineering</li>
 	<li> More education: Polkadot Blockchain Academy, Master in Data Science</li>
 	<li> Main programming languages: Typescript, Solidity, C++, Python, Rust, Java</li>
