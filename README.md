@@ -13,10 +13,10 @@ Blockchain engineer focused on cross-chain infrastructure, developer experience,
 </p>
 
    <ul>  
-	<li> Developer Relations Engineer @ PaperMoon </li>
+	<li> Developer Relations Engineer</li>
 	<li> Deep interest in blockchain technology</li>
 	<li> Bachelor in Computer Science and Business Organizarion Engineering</li>
-	<li> More education: Polkadot Blockchain Academy, Master in Data Science</li>
+	<li> More education: Polkadot Blockchain Academy, Data Science</li>
    </ul>
 
 
